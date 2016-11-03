@@ -26,7 +26,7 @@ zebrafish, neural crest, *in vivo* biotinylation of nuclei, *in vivo* biotinylat
 
 # Manuscript and contact information
 The Biotagging toolkit for analysis of specific cell populations reveals gene regulatory logic encoded in the nuclear transcriptome
-[Le A. Trinh]*<sup>1</sup>, [Vanessa M. R. Chong]*<sup>2</sup>, [Daria Gavriouchkina]<sup>2</sup>, [Tatiana Hochgreb-Hagele]<sup>2,3</sup>, [Upeka Senanayake]<sup>2</sup>, [Scott E. Fraser]<sup>1</sup>, [Tatjana Sauka-Spengler]<sup>2</sup>
+Le A. Trinh *<sup>1</sup>, Vanessa M. R. Chong* <sup>2</sup>, Daria Gavriouchkina<sup>2</sup>, Tatiana Hochgreb-Hagele<sup>2,3</sup>, Upeka Senanayake<sup>2</sup>, Scott E. Fraser<sup>1</sup>, Tatjana Sauka-Spengler<sup>2</sup>
 **\*Corresponding author: Tatjana Sauka-Spengler (tatjana.sauka-spengler@imm.ox.ac.uk)**
 
 *Vanessa M. R. Chong, Daria Gavriouchkina, Tatiana Hochgreb-Hagele, Upeka Senanayake,Tatjana Sauka-Spengler*: [Sauka-Spengler lab](http://www.lgm.upmc.fr/mcl/index.html)
@@ -44,7 +44,7 @@ Oxford, OX3 9DS
 3. California Institute of Technology
 Division of Biology and Biological Engineering
 Pasadena, CA 91125
-![](_other/affiliations.png)
+![](_other/affliations.png)
 
 ## Funding
 ![](images/funding.png)

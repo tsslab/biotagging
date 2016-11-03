@@ -25,7 +25,7 @@ zebrafish, neural crest, *in vivo* biotinylation of nuclei, *in vivo* biotinylat
 *Danio rerio*
 
 # Manuscript and contact information
-The Biotagging toolkit for analysis of specific cell populations reveals gene regulatory logic encoded in the nuclear transcriptome
+The Biotagging toolkit for analysis of specific cell populations in zebrafish reveals gene regulatory logic encoded in the nuclear transcriptome
 Le A. Trinh *<sup>1</sup>, Vanessa M. R. Chong* <sup>2</sup>, Daria Gavriouchkina<sup>2</sup>, Tatiana Hochgreb-Hagele<sup>2,3</sup>, Upeka Senanayake<sup>2</sup>, Scott E. Fraser<sup>1</sup>, Tatjana Sauka-Spengler<sup>2</sup>
 
 

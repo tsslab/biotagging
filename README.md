@@ -32,12 +32,6 @@ Le A. Trinh \*<sup>1</sup>, Vanessa M. R. Chong\* <sup>2</sup>, Daria Gavriouchk
 
 **Corresponding author: Tatjana Sauka-Spengler (tatjana.sauka-spengler@imm.ox.ac.uk)**
 
-Vanessa M. R. Chong, Daria Gavriouchkina, Tatiana Hochgreb-Hagele, Upeka Senanayake,Tatjana Sauka-Spengler: [Sauka-Spengler lab](http://www.lgm.upmc.fr/mcl/index.html)
-
-Le A. Trinh, Scott E. Fraser: [Fraser lab](https://www.iamphioxus.org)
-
-Tatiana Hochgreb-Hagele: [Bronner lab](http://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xwarrj)
-
 ## Affliations
 1. University of Southern California
 Molecular and Computational Biology
@@ -50,8 +44,18 @@ Oxford, OX3 9DS
 Division of Biology and Biological Engineering
 Pasadena, CA 91125
 
+Vanessa M. R. Chong, Daria Gavriouchkina, Tatiana Hochgreb-Hagele, Upeka Senanayake,Tatjana Sauka-Spengler: [Sauka-Spengler lab](http://www.lgm.upmc.fr/mcl/index.html) based at [Weatherall Institute of Molecular Medicine](www.imm.ox.ac.uk), University of Oxford
+
+Le A. Trinh, Scott E. Fraser: [Fraser lab](https://www.iamphioxus.org) based at University of Southern California
+
+Tatiana Hochgreb-Hagele: [Bronner lab](http://cmb.gu.se/english/about_us/staff?languageId=100001&userId=xwarrj), California Institute of Technology
+
+
+
 ![](other/affiliations.png)
 
 ## Funding
+
+
 
 ![](other/funding.png)

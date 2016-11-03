@@ -49,7 +49,7 @@ Oxford, OX3 9DS
 Division of Biology and Biological Engineering
 Pasadena, CA 91125
 
-![](other/affliations.png)
+![](other/affiliations.png)
 
 ## Funding
 

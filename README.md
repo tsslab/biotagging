@@ -44,7 +44,7 @@ Oxford, OX3 9DS
 3. California Institute of Technology
 Division of Biology and Biological Engineering
 Pasadena, CA 91125
-![](_other/affliations.png)
+![](http://github.com/tsslab/biotagging/_other/affliations.png)
 
 ## Funding
-![](images/funding.png)
+![](http://github.com/tsslab/biotagging/images/funding.png)
